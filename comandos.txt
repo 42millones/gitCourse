@@ -1,0 +1,25 @@
+Comandos Basicos
+
+git init
+    iniciar proyecto de git
+git add <file>
+    añadir archivo del Working Directory al Staging Area
+git status
+    ver el estado de los archivos
+git commit
+    pasar los archivos del Staging Area al Repository
+git push
+    subir los archivos a un repositorio remoto
+git pull
+    traer los cambios hechos en el repositorio
+git clone
+    clonar un repositorio remoto en el Working Directory
+
+Hay 3 estados
+
+Working Directory: directorio de trabajo
+
+Staging Area: archivos a subir
+
+Repository: donde se guardan los archivos
+
